@@ -1,0 +1,19 @@
+# Node / API
+api/node_modules/
+api/.env
+api/npm-debug.log
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.DS_Store
+android/build/
+android/app/build/
+android/captures/
+android/.externalNativeBuild/
+android/.cxx/
+*.iml
+
+# General
+.DS_Store

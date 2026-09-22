@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StudyMate</string>
+
+    <string name="login_title">Welcome back</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="no_account_prompt">Don\'t have an account? Register</string>
+
+    <string name="register_title">Create your account</string>
+    <string name="full_name_hint">Full name</string>
+    <string name="register_button">Register</string>
+    <string name="have_account_prompt">Already have an account? Log in</string>
+
+    <string name="dashboard_title">My Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="empty_tasks_message">No tasks yet — tap + to add your first task.</string>
+
+    <string name="add_task_title">New Task</string>
+    <string name="task_title_hint">Task title</string>
+    <string name="task_module_hint">Module / Subject</string>
+    <string name="save_task_button">Save Task</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="new_password_hint">New password (leave blank to keep current)</string>
+    <string name="save_settings_button">Save Changes</string>
+    <string name="logout_button">Log Out</string>
+</resources>
