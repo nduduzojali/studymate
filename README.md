@@ -75,7 +75,7 @@ studymate-app/
 | GET | `/api/users/me` | Get the logged-in user's profile | Yes |
 | PUT | `/api/users/me` | Update name / password (Settings screen) | Yes |
 
-The live, hosted API used by the app is at: `<INSERT YOUR RENDER URL HERE>`
+The live, hosted API used by the app is at: `https://studymate-api-hnro.onrender.com`
 
 ## 6. Running the Project Locally
 
@@ -114,7 +114,7 @@ initialised with this README before feature work began.
 
 ## 9. Demonstration Video
 
-📹 **Video link:** `<INSERT YOUR YOUTUBE (UNLISTED) LINK HERE>`
+📹 **Video link:** `https://youtu.be/t0W2c8uBX08?si=oMsK_QvAkBcsD_pA`
 
 The video demonstrates:
 - Registering a new account and logging in (with the encrypted password
